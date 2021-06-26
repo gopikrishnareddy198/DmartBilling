@@ -10,4 +10,8 @@ public class Checkout {
 		
 	}
 	
+	private void m1() {
+		// TODO Auto-generated method stub
+
+	}
 }
