@@ -5,4 +5,9 @@ public class Checkout {
 	public void addItems() {
 		
 	}
+
+	public void removeItems() {
+		
+	}
+	
 }
