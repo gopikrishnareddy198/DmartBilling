@@ -10,4 +10,8 @@ public class GooglePay {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void getHistory() {
+
+	}
 }
