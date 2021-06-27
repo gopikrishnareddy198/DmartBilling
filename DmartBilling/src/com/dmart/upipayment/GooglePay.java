@@ -1,5 +1,7 @@
 package com.dmart.upipayment;
 
+import java.util.Random;
+
 public class GooglePay {
 	
 	private void getReferenceNumber() {
@@ -7,7 +9,7 @@ public class GooglePay {
 	}
 
 	private void getUpiNumber() {
-		// TODO Auto-generated method stub
+		System.out.println(new Random().nextInt());
 
 	}
 	
