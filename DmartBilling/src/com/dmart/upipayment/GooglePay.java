@@ -14,6 +14,8 @@ public class GooglePay {
 	}
 	
 	private void getHistory() {
-
+		for(int j=0;j<=5;j++) {
+			if(j==4)System.out.println(j);
+		}
 	}
 }
